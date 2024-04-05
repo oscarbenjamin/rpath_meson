@@ -1,0 +1,6 @@
+.python-version
+gmp-*
+.local
+build
+build-install
+*.pyc
