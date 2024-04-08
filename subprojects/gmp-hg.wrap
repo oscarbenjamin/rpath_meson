@@ -1,0 +1,5 @@
+[wrap-hg]
+url = https://gmplib.org/repo/gmp/
+revision = default
+
+patch_directory = gmp-hg

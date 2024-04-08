@@ -1,0 +1,2 @@
+option('gmp_version', type : 'string', description : 'GMP version')
+option('mpfr_version', type : 'string', description : 'MPFR version')
